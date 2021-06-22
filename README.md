@@ -1,6 +1,6 @@
 # HTML_test
 
-#This is a repo for simulate writing a HTML web
+This is a repo for simulate writing a HTML web
 
 This is a simulation of a web that you need to enter ID No. and name to login
 
